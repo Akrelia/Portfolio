@@ -9,7 +9,7 @@
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
   <body>
-    <canvas id="canvas" onclick="mouseClick(event)"></canvas>
+    <canvas id="canvas"></canvas>
     <div class="black-div">
       <img class="avatar" src="images/avatar.png" width="50px" />
       <h1>CHAUDRON Romain</h1>
@@ -20,61 +20,75 @@
       </section>
     </div>
     <div class="gallery-wrap">
-      <img src="images/back.png" id="backBtn" />
       <div class="gallery">
         <div class="card3d">
-          <img src="images/Countryball.png" width="400" alt="Votre image" />
+          <a href="#test-popup" data-effect="mfp-zoom-in">Dfgdsfdfs</a>
+          <img src="images/Countryball.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/PlanQuiz.png" width="400" alt="Votre image" />
+          <img src="images/PlanQuiz.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Flappy Bird.png" width="400" alt="Votre image" />
+          <img src="images/Flappy Bird.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Cat-Clicker.png" width="400" alt="Votre image" />
+          <img src="images/Cat-Clicker.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/PlatDraw.png" width="400" alt="Votre image" />
+          <img src="images/PlatDraw.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/GoL3D.png" width="400" alt="Votre image" />
+          <img src="images/GoL3D.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/CovidMap.png" width="400" alt="Votre image" />
+          <img src="images/CovidMap.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Rose Online.png" width="400" alt="Votre image" />
+          <img src="images/Rose Online.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Discord Arena.png" width="400" alt="Votre image" />
+          <img src="images/Discord Arena.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/MusicJam.png" width="400" alt="Votre image" />
+          <img src="images/MusicJam.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/DiscordBots.png" width="400" alt="Votre image" />
+          <img src="images/DiscordBots.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Meteor.png" width="400" alt="Votre image" />
+          <img src="images/Meteor.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/OGameGO.png" width="400" alt="Votre image" />
+          <img src="images/OGameGO.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Space Janitor.png" width="400" alt="Votre image" />
+          <img src="images/Space Janitor.png" onclick="showModal()"  width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/TheDefenders.png" width="400" alt="Votre image" />
+          <img src="images/TheDefenders.png" onclick="showModal()" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/3D.png" width="400" alt="Votre image" />
+          <img src="images/3D.png" width="400" onclick="showModal()" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Misc.png" width="400" alt="Votre image" />
+          <img src="images/Misc.png" width="400" onclick="showModal()" alt="Votre image" />
         </div>
       </div>
-      <img src="images/next.png" id="nextBtn" />
+    </div>
+    <div id="myModal" class="modal">
+      <div class="modal-content">
+        <span class="close">&times;</span>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+        <p>Some text in the Modal..</p>
+      </div>
     </div>
     <script src="scripts/main.js"></script>
   </body>

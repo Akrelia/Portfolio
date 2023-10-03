@@ -129,8 +129,8 @@ function drawDots() {
 }
 
 function mouseMove(e) {
-  mouseX = e.offsetX;
-  mouseY = e.offsetY;
+  mouseX = e.clientX;
+  mouseY = e.clientY;
 }
 
 function drawLine(startX, startY, endX, endY) {

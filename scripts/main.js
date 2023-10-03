@@ -1,5 +1,9 @@
+let gallery = document.getElementById("gallery-container");
 let scrollContainer = document.querySelector(".gallery");
-var cards = document.querySelectorAll(".card3d");
+let cards = document.querySelectorAll(".card3d");
+let modalDataDiv = document.getElementById("modal-data");
+
+gallery.addEventListener("mousemove", mouseMove);
 
 function Card3D(card, ev) {
   let img = card.querySelector("img");
@@ -48,6 +52,11 @@ var span = document.getElementsByClassName("close")[0];
 
 function showModal() {
   modal.style.display = "block";
+}
+
+function showModal(content) {
+  modal.style.display = "block";
+  modalDataDiv.innerHTML = content;
 }
 
 span.onclick = function () {

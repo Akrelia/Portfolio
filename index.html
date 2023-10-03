@@ -5,6 +5,7 @@
     <title>Romain CHAUDRON - Portfolio</title>
     <script type="text/javascript" src="scripts/dot.js" defer></script>
     <script type="text/javascript" src="scripts/background.js" defer></script>
+    <script type="text/javascript" src="scripts/main.js" defer></script>
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="style.css" />
   </head>
@@ -19,7 +20,7 @@
         <div class="second"><div><img class="icon" src="images/pen.png"/>Game Designer</div></div>
       </section>
     </div>
-    <div class="gallery-wrap">
+    <div id="gallery-container" class="gallery-wrap">
       <div class="gallery">
         <div class="card3d">
           <img src="images/Countryball.png" onclick="showModal()" width="400" alt="Votre image" />
@@ -77,18 +78,16 @@
     <div id="myModal" class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
-        <p>Some text in the Modal..</p>
+          <h2>Titre</h2>
+          <hr>
+          <div id = "description">Description longue et nulle<br>vraiment</div>
+          <div id = "specs">Language(s)<br>Nigg</div>
+          <div id = "project-gallery">
+            <img class="thumbnail" src="images/Misc.png">
+            <img class="thumbnail" src="images/Misc.png">
+            <img class="thumbnail" src="images/Misc.png">
+          </div>
       </div>
     </div>
-    <script src="scripts/main.js"></script>
   </body>
 </html>

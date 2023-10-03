@@ -45,7 +45,7 @@ body {
 
 canvas {
   position: absolute;
-  z-index: -1;
+  z-index: 0;
   box-sizing: border-box;
   border: 1px solid black;
   height: 100vh;
@@ -84,6 +84,7 @@ h1 {
   padding: 100px;
   display: flex;
   overflow: scroll;
+  z-index: 0;
 }
 
 .gallery div {
@@ -91,10 +92,6 @@ h1 {
   display: grid;
   grid-template-columns: auto auto auto;
   padding: 10px;
-}
-
-.gallery::-webkit-scrollbar {
-  /* display: none;*/
 }
 
 .gallery-wrap {
@@ -209,13 +206,12 @@ h1 {
 
 /* The Modal (background) */
 .modal {
-  display: none; /* Hidden by default */
   position: fixed; /* Stay in place */
   z-index: 100; /* Sit on top */
   left: 0;
   top: 0;
-  width: 100%; /* Full width */
-  height: 100%; /* Full height */
+  width: 100vw; /* Full width */
+  height: 100vh; /* Full height */
   overflow: auto; /* Enable scroll if needed */
   background-color: rgb(0, 0, 0); /* Fallback color */
   background-color: rgba(0, 0, 0, 0.8); /* Black w/ opacity */
@@ -224,10 +220,11 @@ h1 {
 /* Modal Content/Box */
 .modal-content {
   background-color: #fefefe;
-  margin: 10% auto; /* 15% from the top and centered */
+  margin: 5% auto; 
   padding: 20px;
   border: 1px solid #888;
-  width: 80%; /* Could be more or less, depending on screen size */
+  width: 80vw;
+  height: 75vh;
 }
 
 /* The Close Button */
@@ -251,4 +248,36 @@ h1 {
   height: 30px;
   margin-right: 15px;
   opacity: 0.5;
+}
+
+/* FORM MODAL */
+
+#description{
+  background-color: #8c338f;
+  display: inline-block;
+  vertical-align: top;
+  width: 80%;
+  height: 70%;
+}
+
+#specs{
+  background-color: #8f4c33;
+  display: inline-block;
+  width: 19%;
+  height: 70%;
+  left: 76%;
+}
+
+#project-gallery{
+  background-color: #338f42;
+  top: 71%;
+  align-content: center;
+  width: 80%;
+  height: 18%;
+}
+
+.thumbnail{
+width: 100px;
+margin: 12px;
+height: 100px;
 }

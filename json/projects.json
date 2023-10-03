@@ -8,8 +8,8 @@
     "technos": "Unity / .NET / Blender",
     "time": "18 Months",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": []
+    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4","https://streamable.com/e/y6zxdb"],
+    "gallery": ["images/screens/Kit.png"]
   },
   {
     "id": 2,
@@ -20,8 +20,8 @@
     "technos": "Unity / WebGL / Web Sockets",
     "time": "4 Months",
     "roles": "Game Designer / Programmer / UI Designer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/q2vekk"],
+    "gallery": ["images/screens/planquiz1.png","images/screens/planquiz2.png","images/screens/planquiz3.png","images/screens/planquiz4.png","images/screens/planquiz5.png","images/screens/planquiz6.png","images/screens/planquiz7.png","images/screens/planquiz8.png","images/screens/planquiz9.png"]
   },
   {
     "id": 3,
@@ -32,8 +32,8 @@
     "technos": "Unity / Blender",
     "time": "2022",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://www.youtube.com/embed/4zFF2D6G4fo"],
+    "gallery": []
   },
   {
     "id": 4,
@@ -44,8 +44,8 @@
     "technos": "VSCode",
     "time": "2022",
     "roles": "Game Designer / Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": [],
+    "gallery": ["images/screens/catclicker1.png", "images/screens/catclicker2.png"]
   },
   {
     "id": 5,
@@ -56,8 +56,8 @@
     "technos": "Unity",
     "time": "2020",
     "roles": "Game Designer / Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://www.youtube.com/embed/T8mb7D6vk5Y"],
+    "gallery": []
   },
   {
     "id": 6,
@@ -68,8 +68,8 @@
     "technos": "Unity",
     "time": "2019",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://www.youtube.com/embed/CH4oy2ewzLc"],
+    "gallery": []
   },
   {
     "id": 7,
@@ -80,8 +80,8 @@
     "technos": "Unity / APIs",
     "time": "2020",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://www.youtube.com/embed/KR48wqOODtw"],
+    "gallery": []
   },
   {
     "id": 8,
@@ -92,8 +92,8 @@
     "technos": ".NET / Disassembler / Hex Editor",
     "time": "2020",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/8h6uvb", "https://streamable.com/e/0g22yn"],
+    "gallery": ["images/screens/rose1.jpg"]
   },
   {
     "id": 9,
@@ -104,8 +104,8 @@
     "technos": "Unity / DiscordUnity (personnal)",
     "time": "2021",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/18dbv7"],
+    "gallery": []
   },
   {
     "id": 10,
@@ -116,8 +116,8 @@
     "technos": "Unity / Audacity",
     "time": "2022",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/nhq2v4"],
+    "gallery": []
   },
   {
     "id": 11,
@@ -128,8 +128,8 @@
     "technos": "Discord.NET / FootballAPI (mine) / APIs",
     "time": "Since 2018",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": [],
+    "gallery": ["images/screens/discord1.png", "images/screens/discord2.png","images/screens/discord3.png","images/screens/discord4.png","images/screens/discord5.png","images/screens/discord6.png","images/screens/discord7.png","images/screens/discord8.png","images/screens/discord10.png"]
   },
   {
     "id": 12,
@@ -140,8 +140,8 @@
     "technos": "WinForms / .NET",
     "time": "2014",
     "roles": "Programmer / UI Designer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": [],
+    "gallery": ["images/screens/meteor1.png", "images/screens/meteor2.png","images/screens/meteor3.png","images/screens/meteor4.png","images/screens/meteor5.png","images/screens/meteor6.png"]
   },
   {
     "id": 13,
@@ -152,8 +152,8 @@
     "technos": "Unity / ProtoBuf",
     "time": "2019",
     "roles": "Programmer",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/ezre1q"],
+    "gallery": []
   },
   {
     "id": 14,
@@ -164,8 +164,8 @@
     "technos": "Monogame / Formator (personal framework)",
     "time": "2016",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/8gvfl7"],
+    "gallery": ["images/screens/spacejanitor.png"]
   },
   {
     "id": 15,
@@ -175,9 +175,9 @@
     "preview": "images/TheDefenders.png",
     "technos": "Unity",
     "time": "2019",
-    "roles": "3D Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "roles": "Programmer",
+    "videos": ["https://streamable.com/e/5vq9p9"],
+    "gallery": ["images/screens/thedefenders1.png", "images/screens/thedefenders2.png"]
   },
   {
     "id": 16,
@@ -188,8 +188,8 @@
     "technos": "Blender / Paint Substance",
     "time": "Since 2021",
     "roles": "3D Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/ocrmbd"],
+    "gallery": ["images/screens/treasure.png", "images/screens/treasure2.png","images/screens/room.png","images/screens/tiny planet.png","images/screens/cimetery.png","images/screens/chess.png"]
   },
   {
     "id": 17,
@@ -200,7 +200,7 @@
     "technos": "Unity / .NET / MonoGame",
     "time": "Since 2010",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4"],
-    "gallery": ["images/3D.png", "images/avatar.png"]
+    "videos": ["https://streamable.com/e/0rbuup","https://streamable.com/e/mvccxj","https://streamable.com/e/aakovl"],
+    "gallery": ["images/screens/towerdefense3D.png", "images/screens/tower-def-js.png","images/screens/arcturus-world.png","images/screens/akrelia.png","images/screens/Competz.png","images/screens/dungeon-explorer.png","images/screens/tetris.png","images/screens/tower-def1.png"]
   }
 ]

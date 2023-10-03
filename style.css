@@ -322,3 +322,19 @@ hr {
 b, strong {
    color: rgb(94, 143, 173);
    }
+
+a:link {
+  color:  #0576c1
+}
+
+a:visited {
+  color: #0576c1
+}
+
+a:hover {
+  color: #23a7ff
+}
+
+a:active {
+  color: #0576c1
+}

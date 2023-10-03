@@ -4,7 +4,7 @@
     "title": "Countryball - Space Race",
     "description": "My first commercially released game <u>ever</u>.<br><br> A childhood dream. I'm so proud of it because it was a long process on all levels of video game conception, especially <b>Game Design</b>. I learned so much while developing it that I couldn't conceive it, and I understand why in the world of computer science and especially in the world of video games, there is a huge difference between a <b>finished game</b> and an incomplete one. <br><br>Anyway, it's a game where you have to draw platforms to help a country go as high as possible, even reach space. However, the rocket at your disposal is useless, and your platform fuel is limited. So, you'll have to scrape together coins to upgrade everything and go higher and higher! You can try it right here on the <a href='https://play.google.com/store/apps/details?id=com.TheCauldron.CountryBallSpaceRace'>Play Store</a>.",
     "languages": "C# / SQL",
-    "preview": "images/CountryBall.png",
+    "preview": "images/Countryball.png",
     "technos": "Unity / .NET / Blender",
     "time": "18 Months",
     "roles": "Game Designer / Programmer / Artist",

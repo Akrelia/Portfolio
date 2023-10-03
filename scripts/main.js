@@ -54,9 +54,9 @@ function showModal() {
   modal.style.display = "block";
 }
 
-function showModal(content) {
+function showModal(id) {
+  displayProject(id);
   modal.style.display = "block";
-  modalDataDiv.innerHTML = content;
 }
 
 span.onclick = function () {
@@ -68,3 +68,5 @@ window.onclick = function (event) {
     modal.style.display = "none";
   }
 };
+
+loadProjects();

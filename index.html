@@ -3,8 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <title>Romain CHAUDRON - Portfolio</title>
+    <script type="text/javascript" src="scripts/tools.js" defer></script>
     <script type="text/javascript" src="scripts/dot.js" defer></script>
     <script type="text/javascript" src="scripts/background.js" defer></script>
+    <script type="text/javascript" src="scripts/loader.js" defer></script>
     <script type="text/javascript" src="scripts/main.js" defer></script>
     <link href="https://fonts.googleapis.com/css2?family=Oswald&display=swap" rel="stylesheet" />
     <link rel="stylesheet" type="text/css" href="style.css" />
@@ -15,78 +17,98 @@
       <img class="avatar" src="images/avatar.png" width="50px" />
       <h1>CHAUDRON Romain</h1>
       <section class="animation">
-        <div class="first"><div><img class="icon" src="images/gamepad.png"/>Game Developer</div></div>
-        <div class="third"><div><img class="icon" src="images/gear.png"/>Software Engineer</div></div>
-        <div class="second"><div><img class="icon" src="images/pen.png"/>Game Designer</div></div>
+        <div class="first">
+          <div><img class="icon" src="images/gamepad.png" />Game Developer</div>
+        </div>
+        <div class="third">
+          <div><img class="icon" src="images/gear.png" />Software Engineer</div>
+        </div>
+        <div class="second">
+          <div><img class="icon" src="images/pen.png" />Game Designer</div>
+        </div>
       </section>
     </div>
     <div id="gallery-container" class="gallery-wrap">
       <div class="gallery">
         <div class="card3d">
-          <img src="images/Countryball.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Countryball.png" onclick="showModal(1)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/PlanQuiz.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/PlanQuiz.png" onclick="showModal(2)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Flappy Bird.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Flappy Bird.png" onclick="showModal(3)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Cat-Clicker.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Cat-Clicker.png" onclick="showModal(4)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/PlatDraw.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/PlatDraw.png" onclick="showModal(5)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/GoL3D.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/GoL3D.png" onclick="showModal(6)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/CovidMap.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/CovidMap.png" onclick="showModal(7)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Rose Online.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Rose Online.png" onclick="showModal(8)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Discord Arena.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Discord Arena.png" onclick="showModal(9)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/MusicJam.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/MusicJam.png" onclick="showModal(10)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/DiscordBots.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/DiscordBots.png" onclick="showModal(11)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Meteor.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/Meteor.png" onclick="showModal(12)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/OGameGO.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/OGameGO.png" onclick="showModal(13)" width="400" alt="Votre image" />
         </div>
         <div class="card3d">
-          <img src="images/Space Janitor.png" onclick="showModal()"  width="400" alt="Votre image" />
+          <img src="images/Space Janitor.png" onclick="showModal(14)" width="400" />
         </div>
         <div class="card3d">
-          <img src="images/TheDefenders.png" onclick="showModal()" width="400" alt="Votre image" />
+          <img src="images/TheDefenders.png" onclick="showModal(15)" width="400" />
         </div>
         <div class="card3d">
-          <img src="images/3D.png" width="400" onclick="showModal()" alt="Votre image" />
+          <img src="images/3D.png" width="400" onclick="showModal(16)" />
         </div>
         <div class="card3d">
-          <img src="images/Misc.png" width="400" onclick="showModal()" alt="Votre image" />
+          <img src="images/Misc.png" width="400" onclick="showModal(17)" alt="Votre image" />
         </div>
       </div>
     </div>
     <div id="myModal" class="modal">
       <div class="modal-content">
         <span class="close">&times;</span>
-          <h2>Titre</h2>
-          <hr>
-          <div id = "description">Description longue et nulle<br>vraiment</div>
-          <div id = "specs">Language(s)<br>Nigg</div>
-          <div id = "project-gallery">
-            <img class="thumbnail" src="images/Misc.png">
-            <img class="thumbnail" src="images/Misc.png">
-            <img class="thumbnail" src="images/Misc.png">
-          </div>
+        <div id="project-title">Titre</div>
+        <hr />
+        <img src="images/Meteor.png" id="preview" width="325" />
+        <div id="description" class="modal-text"></div>
+        <div class="specs">
+          <div class="subtitle">Language(s)</div>
+          <hr />
+          <div id="languages" class="modal-text"></div>
+          <hr />
+          <div class="subtitle">Techno(s) & Soft(s)</div>
+          <hr />
+          <div id="technos" class="modal-text"></div>
+          <hr />
+          <div class="subtitle">Role(s)</div>
+          <hr />
+          <div id="roles" class="modal-text"></div>
+          <hr />
+          <div class="subtitle">Time</div>
+          <hr />
+          <div id="time-spend" class="modal-text"></div>
+        </div>
+        <hr />
+        <div id="project-gallery"></div>
       </div>
     </div>
   </body>

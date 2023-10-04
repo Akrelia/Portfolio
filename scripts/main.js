@@ -18,7 +18,7 @@ function Card3D(card, ev) {
   let blur = map(mouseY, 0, height, 0, 1);
 
   img.style.transform = `rotateX(${rotateX}deg) rotateY(${rotateY}deg)`;
-  img.style.filter = `brightness(${brightness})`;
+  img.style.filter = `brightness(${brightness}) saturate(${brightness * 100}%)`;
   // img.style.filter = `blur(${blur}px)`;
 }
 

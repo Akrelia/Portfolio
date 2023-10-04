@@ -26,7 +26,7 @@ function displayProject(id) {
   projectGallery.innerHTML = "";
 
   for (var i = 0; i < project.videos.length; i++) {
-    projectGallery.innerHTML += `<iframe class="videothumbnail" src="${project.videos[i]}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>`;
+    projectGallery.innerHTML += `<div><iframe src="${project.videos[i]}" class="videothumbnail" autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share" allowfullscreen></iframe></div>`;
   }
 
   for (var i = 0; i < project.gallery.length; i++) {

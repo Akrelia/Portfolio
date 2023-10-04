@@ -8,8 +8,8 @@
     "technos": "Unity / .NET / Blender",
     "time": "2023",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4","https://streamable.com/e/y6zxdb"],
-    "gallery": ["images/screens/Kit.png"]
+    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4", "https://streamable.com/e/y6zxdb"],
+    "gallery": ["images/screens/Kit.png", "images/screens/countryball1.png","images/screens/countryball2.jpg","images/screens/countryball3.jpg","images/screens/countryball4.jpg","images/screens/countryball5.jpg","images/screens/countryball6.jpg"]
   },
   {
     "id": 2,
@@ -21,12 +21,21 @@
     "time": "2022",
     "roles": "Game Designer / Programmer / UI Designer",
     "videos": ["https://streamable.com/e/q2vekk"],
-    "gallery": ["images/screens/planquiz2.png","images/screens/planquiz3.png","images/screens/planquiz4.png","images/screens/planquiz5.png","images/screens/planquiz6.png","images/screens/planquiz7.png","images/screens/planquiz8.png","images/screens/planquiz9.png"]
+    "gallery": [
+      "images/screens/planquiz4.png",
+      "images/screens/planquiz5.png",
+      "images/screens/planquiz6.png",
+      "images/screens/planquiz7.png",
+      "images/screens/planquiz8.png",
+      "images/screens/planquiz9.png",
+      "images/screens/planquiz2.png",
+      "images/screens/planquiz3.png"
+    ]
   },
   {
     "id": 3,
     "title": "Flappy Bird Online",
-    "description": "I was looking for an idea for my <a href='https://www.youtube.com/@theunknownbox2254'>YouTube channel</a>, and then it hit me: <b>Flappy Bird</b>. In <b>3D</b>. And <b>Online</b>. And that's it.<br><br> I started with some 3D models, reused a server from a previous game, and it was done. Despite the apparent simplicity of the project, I loved working on it. And my friends and I play it very <u>often</u>! You can try it <a href = 'http://212.198.179.227:888/FlappyBird/'>here</a>",
+    "description": "I was looking for an idea for my <a href='https://www.youtube.com/@theunknownbox2254'>YouTube channel</a>, and then it hit me: <b>Flappy Bird</b>. In <b>3D</b>. And <b>Online</b>. And that's it.<br><br> I started with some 3D models, reused a server from a previous game, and it was done. The cool thing about this project was that it was an opportunity to add a little bit of polish, as there was nothing too complicated. I could play with the lighting, the effects, etc... <br><br>Despite the apparent simplicity of the project, I loved working on it. And my friends and I play it very <u>often</u>!<br><br> You can try it <a href = 'http://212.198.179.227:888/FlappyBird/'>here</a>",
     "languages": "C# / SQL",
     "preview": "images/Flappy Bird.png",
     "technos": "Unity / Blender",
@@ -81,7 +90,7 @@
     "time": "2020",
     "roles": "Programmer",
     "videos": ["https://www.youtube.com/embed/KR48wqOODtw"],
-    "gallery": []
+    "gallery": ["images/screens/worldgen.png","images/screens/worldgen3D.png"]
   },
   {
     "id": 8,
@@ -98,14 +107,14 @@
   {
     "id": 9,
     "title": "Discord Arena",
-    "description": "I love coming up with concepts, and this one was a biggie. I wanted to create interactions between the <b>Discord</b> API and a <b>Unity</b> game, not just one-way interactions like we usually see, but in both directions. <br><br>After finding a library that could do it but was in bad shape and outdated, I decided to update and fix it for days. Then, I created a small game to put my ideas into practice. I hope to see games like this emerge in the future.",
+    "description": "I love coming up with concepts, and this one was a biggie. I wanted to create interactions between the <b>Discord</b> API and a <b>Unity</b> game, not just one-way interactions like we usually see, but in both directions. <br><br>After finding a library that could do it but was in bad shape and outdated, I decided to update and fix it for days. Then, I created a game prototype to put my ideas into practice. Server users are represented by their attributes, roles, whether they are bots or not, in voice channel, etc.. <br><br>Didn't have time to create an interesting gameplay since the <b>Discord</b> part took up a lot of time, but just seeing the small interactions made it worthwhile. <br><br> I hope to see games like this emerge in the future since it got a lot of potentiel.",
     "languages": "C#",
     "preview": "images/Discord Arena.png",
     "technos": "Unity / DiscordUnity (personnal)",
     "time": "2021",
     "roles": "Programmer",
     "videos": ["https://streamable.com/e/18dbv7"],
-    "gallery": []
+    "gallery": ["images/screens/discordarena.png"]
   },
   {
     "id": 10,
@@ -129,7 +138,17 @@
     "time": "Since 2018",
     "roles": "Programmer",
     "videos": [],
-    "gallery": ["images/screens/discord1.png", "images/screens/discord2.png","images/screens/discord3.png","images/screens/discord4.png","images/screens/discord5.png","images/screens/discord6.png","images/screens/discord7.png","images/screens/discord8.png","images/screens/discord10.png"]
+    "gallery": [
+      "images/screens/discord1.png",
+      "images/screens/discord2.png",
+      "images/screens/discord3.png",
+      "images/screens/discord4.png",
+      "images/screens/discord5.png",
+      "images/screens/discord6.png",
+      "images/screens/discord7.png",
+      "images/screens/discord8.png",
+      "images/screens/discord10.png"
+    ]
   },
   {
     "id": 12,
@@ -141,7 +160,7 @@
     "time": "2015",
     "roles": "Programmer / UI Designer",
     "videos": [],
-    "gallery": ["images/screens/meteor1.png", "images/screens/meteor2.png","images/screens/meteor3.png","images/screens/meteor4.png","images/screens/meteor5.png","images/screens/meteor6.png"]
+    "gallery": ["images/screens/meteor1.png", "images/screens/meteor2.png", "images/screens/meteor3.png", "images/screens/meteor4.png", "images/screens/meteor5.png", "images/screens/meteor6.png"]
   },
   {
     "id": 13,
@@ -189,7 +208,7 @@
     "time": "Since 2021",
     "roles": "3D Artist",
     "videos": ["https://streamable.com/e/ocrmbd"],
-    "gallery": ["images/screens/treasure.png", "images/screens/treasure2.png","images/screens/room.png","images/screens/tiny planet.png","images/screens/cimetery.png","images/screens/chess.png"]
+    "gallery": ["images/screens/treasure.png", "images/screens/treasure2.png", "images/screens/room.png", "images/screens/tiny planet.png", "images/screens/cimetery.png", "images/screens/chess.png"]
   },
   {
     "id": 17,
@@ -200,7 +219,16 @@
     "technos": "Unity / .NET / MonoGame",
     "time": "Since 2010",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://streamable.com/e/0rbuup","https://streamable.com/e/mvccxj","https://streamable.com/e/aakovl"],
-    "gallery": ["images/screens/towerdefense3D.png", "images/screens/tower-def-js.png","images/screens/arcturus-world.png","images/screens/akrelia.png","images/screens/Competz.png","images/screens/dungeon-explorer.png","images/screens/tetris.png","images/screens/tower-def1.png"]
+    "videos": ["https://streamable.com/e/0rbuup", "https://streamable.com/e/mvccxj", "https://streamable.com/e/aakovl"],
+    "gallery": [
+      "images/screens/towerdefense3D.png",
+      "images/screens/tower-def-js.png",
+      "images/screens/arcturus-world.png",
+      "images/screens/akrelia.png",
+      "images/screens/Competz.png",
+      "images/screens/dungeon-explorer.png",
+      "images/screens/tetris.png",
+      "images/screens/tower-def1.png"
+    ]
   }
 ]

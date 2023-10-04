@@ -59,7 +59,7 @@
   {
     "id": 5,
     "title": "Platform Drawer",
-    "description": "Typically the kind of concept that is simple but with enormous possibilities.<br><br> It is possible to draw platforms and each of them has different properties! Not much to say about it, there is a whole video about it that explains it much better. Actually, it was much easier than I thought. I thought the generation of platforms would be more complex and harder to manage, but in the end, it wasn't. <br><br> There is no gameplay but I find this still funny to play, only for the physics.",
+    "description": "Typically the kind of concept that is simple but with enormous possibilities.<br><br> It is possible to draw platforms and each of them has different properties! Not much to say about it, there is a whole video about it that explains it much better. Actually, it was much easier than I thought. I thought the generation of platforms would be more complex and harder to manage, but in the end, it wasn't. <br><br> There is no gameplay but I find this still funny to play, only for the physics.<br><br> <a href='http://212.198.179.227:888/PlatformDrawer/'>Play it here</a>",
     "languages": "C#",
     "preview": "images/PlatDraw.png",
     "technos": "Unity",

@@ -6,7 +6,7 @@
     "languages": "C# / SQL",
     "preview": "images/Countryball.png",
     "technos": "Unity / .NET / Blender",
-    "time": "18 Months",
+    "time": "2023",
     "roles": "Game Designer / Programmer / Artist",
     "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4","https://streamable.com/e/y6zxdb"],
     "gallery": ["images/screens/Kit.png"]
@@ -18,7 +18,7 @@
     "languages": "C# / SQL / JavaScript",
     "preview": "images/PlanQuiz.png",
     "technos": "Unity / WebGL / Web Sockets",
-    "time": "4 Months",
+    "time": "2022",
     "roles": "Game Designer / Programmer / UI Designer",
     "videos": ["https://streamable.com/e/q2vekk"],
     "gallery": ["images/screens/planquiz2.png","images/screens/planquiz3.png","images/screens/planquiz4.png","images/screens/planquiz5.png","images/screens/planquiz6.png","images/screens/planquiz7.png","images/screens/planquiz8.png","images/screens/planquiz9.png"]
@@ -91,7 +91,7 @@
     "preview": "images/Rose Online.png",
     "technos": ".NET / Disassembler / Hex Editor",
     "time": "2020",
-    "roles": "Programmer",
+    "roles": "Programmer / Reverse Engineer",
     "videos": ["https://streamable.com/e/8h6uvb", "https://streamable.com/e/0g22yn"],
     "gallery": ["images/screens/rose1.jpg"]
   },
@@ -138,7 +138,7 @@
     "languages": "C# / SQL",
     "preview": "images/Meteor.png",
     "technos": "WinForms / .NET",
-    "time": "2014",
+    "time": "2015",
     "roles": "Programmer / UI Designer",
     "videos": [],
     "gallery": ["images/screens/meteor1.png", "images/screens/meteor2.png","images/screens/meteor3.png","images/screens/meteor4.png","images/screens/meteor5.png","images/screens/meteor6.png"]
@@ -161,7 +161,7 @@
     "description": "It was supposed to be my very first commercial game, as I had just delved into game development seriously.<br><br> However, I clearly lacked experience, not in terms of coding, but in terms of game design. <b>Space Janitor</b> is a <b>Tower Defense</b> game set around the surface of a planet! You have to fend off waves of enemies coming from space by placing towers and utilizing available weapons.<br><br> The game was built using pure <b>MonoGame</b>, which was quite a challenge, especially when it came to the UI.",
     "languages": "C#",
     "preview": "images/Space Janitor.png",
-    "technos": "Monogame / Formator (personal framework)",
+    "technos": "Monogame / Personal Engine & Tools",
     "time": "2016",
     "roles": "Game Designer / Programmer / Artist",
     "videos": ["https://streamable.com/e/8gvfl7"],

@@ -28,9 +28,16 @@ body {
 }
 
 .card3d img:hover {
-  box-shadow: 0 0px 15px rgb(255, 204, 0);
   border-radius: 25px;
   cursor: pointer;
+}
+
+.cardglow1:hover{
+  box-shadow: 0 0px 20px rgb(255, 204, 0);
+}
+
+.cardglow2:hover{
+  box-shadow: 0 0px 20px rgb(128, 90, 116);
 }
 
 .card3d:hover {
@@ -168,8 +175,12 @@ h1 {
 }
 
 @keyframes preview-animation {
-from { transform:  rotateY(-20deg); }
-to { transform:  rotateY(20deg); }
+  from {
+    transform: rotateY(-20deg);
+  }
+  to {
+    transform: rotateY(20deg);
+  }
 }
 
 /* SCROLLBAR */
@@ -267,7 +278,6 @@ to { transform:  rotateY(20deg); }
 
 #preview {
   display: inline-block;
-  
 }
 
 .specs {
@@ -278,8 +288,8 @@ to { transform:  rotateY(20deg); }
 }
 
 #project-gallery {
-  align-content: center; 
-   display: flex;
+  align-content: center;
+  display: flex;
   align-items: center;
   margin-left: 10px;
   padding-bottom: 10px;
@@ -315,6 +325,8 @@ to { transform:  rotateY(20deg); }
 }
 
 .videothumbnail {
+  height: 150px;
+  width: auto;
   margin-right: 10px;
 }
 
@@ -324,22 +336,23 @@ hr {
   margin: 10px;
   border-top: 1px solid #4f6277;
 }
-b, strong {
-   color: rgb(94, 143, 173);
-   }
+b,
+strong {
+  color: rgb(94, 143, 173);
+}
 
 a:link {
-  color:  #0576c1
+  color: #0576c1;
 }
 
 a:visited {
-  color: #0576c1
+  color: #0576c1;
 }
 
 a:hover {
-  color: #23a7ff
+  color: #23a7ff;
 }
 
 a:active {
-  color: #0576c1
+  color: #0576c1;
 }

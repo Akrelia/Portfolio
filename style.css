@@ -45,9 +45,13 @@ body {
   transform: scale(1.2);
 }
 
-.card3d,
-.card3d img {
-  transition: all 350ms ease-out;
+  .card3d,
+  .card3d img {
+    transition: all 350ms ease-out;
+  }
+
+.modal {
+  transition: all 300ms ease-out;
 }
 
 canvas {
@@ -173,15 +177,10 @@ h1 {
   }
 }
 
-@keyframes preview-animation {
-  from {
-    transform: rotateY(-20deg);
-  }
-  to {
-    transform: rotateY(20deg);
-  }
-}
-
+@keyframes modal-appear {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+} 
 /* SCROLLBAR */
 
 ::-webkit-scrollbar {
@@ -220,6 +219,8 @@ h1 {
   z-index: 100; /* Sit on top */
   left: 0;
   display: none;
+  opacity: 1;
+  animation: modal-appear 0.5s;
   top: 0;
   width: 100vw; /* Full width */
   height: 100vh; /* Full height */
@@ -361,4 +362,16 @@ a:hover {
 
 a:active {
   color: #0576c1;
+}
+
+#about-me {
+  position: fixed;
+  right: 0;
+  margin-right: 40px;
+}
+
+.icon-about {
+  width: 40 px;
+  height: 40px;
+  margin-right: 8px;
 }

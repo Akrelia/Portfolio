@@ -245,6 +245,16 @@ h1 {
   height: 74vh;
 }
 
+/* Modal Content/Box */
+.modal-about {
+  background-color: #394757;
+  margin: 5% auto;
+  padding: 20px;
+  border: 6px solid #4e5e70;
+  width: 40vw;
+  height: 74vh;
+}
+
 /* The Close Button */
 .close {
   color: #aaa;
@@ -321,8 +331,15 @@ h1 {
 .modal-text {
   color: white;
   font-size: 20px;
-  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  text-shadow: 1px 1px 3px rgba(0, 0, 0, 1);
 }
+
+.about-text {
+  color: white;
+  font-size: 23px;
+  text-shadow: 1px 1px 4px rgba(0, 0, 0, 1);
+}
+
 
 .thumbnail {
   height: 140px;

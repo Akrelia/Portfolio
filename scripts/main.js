@@ -2,6 +2,11 @@ let gallery = document.getElementById("gallery-container");
 let scrollContainer = document.querySelector(".gallery");
 let cards = document.querySelectorAll(".card3d");
 let modalDataDiv = document.getElementById("modal-data");
+var modal = document.getElementById("myModal");
+var modalAbout = document.getElementById("about-modal");
+var btn = document.getElementById("myBtn");
+var span = document.getElementById("close-modal");
+var spanAbout = document.getElementById("close-about");
 
 gallery.addEventListener("mousemove", mouseMove);
 
@@ -45,10 +50,9 @@ scrollContainer.addEventListener("wheel", (evt) => {
   scrollContainer.scrollLeft += evt.deltaY;
 });
 
-var modal = document.getElementById("myModal");
-var btn = document.getElementById("myBtn");
-var span = document.getElementsByClassName("close")[0];
-
+function showAbout() {
+  modalAbout.style.display = "block";
+}
 
 function showModal() {
   modal.style.display = "block";
@@ -61,6 +65,10 @@ function showModal(id) {
 
 span.onclick = function () {
   modal.style.display = "none";
+};
+
+spanAbout.onclick = function () {
+  modalAbout.style.display = "none";
 };
 
 window.onclick = function (event) {

@@ -42,7 +42,7 @@
     "time": "2022",
     "roles": "Game Designer / Programmer / Artist",
     "videos": ["https://www.youtube.com/embed/4zFF2D6G4fo"],
-    "gallery": []
+    "gallery": ["images/screens/FlappyBird1.png","images/screens/FlappyBird2.png"]
   },
   {
     "id": 4,
@@ -65,7 +65,7 @@
     "technos": "Unity",
     "time": "2020",
     "roles": "Game Designer / Programmer",
-    "videos": ["https://www.youtube.com/embed/T8mb7D6vk5Y"],
+    "videos": ["https://www.youtube.com/embed/T8mb7D6vk5Y","https://streamable.com/e/ccwlg0"],
     "gallery": []
   },
   {
@@ -219,7 +219,7 @@
     "technos": "Unity / .NET / MonoGame",
     "time": "Since 2010",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://streamable.com/e/0rbuup", "https://streamable.com/e/mvccxj", "https://streamable.com/e/aakovl"],
+    "videos": ["https://streamable.com/e/wrhjp7","https://streamable.com/e/0rbuup", "https://streamable.com/e/mvccxj", "https://streamable.com/e/aakovl"],
     "gallery": [
       "images/screens/towerdefense3D.png",
       "images/screens/tower-def-js.png",

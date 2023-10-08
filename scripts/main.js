@@ -18,7 +18,7 @@ function Card3D(card, ev) {
   let mouseX = ev.offsetX;
   let mouseY = ev.offsetY;
   let rotateY = map(mouseX, 0, width, -25, 35);
-  let rotateX = map(mouseY, 0, height, 20, -30);
+  let rotateX = map(mouseY, 0, height, 20, -20);
   let brightness = map(mouseY, 0, height, 1.5, 0.5);
   let blur = map(mouseY, 0, height, 0, 1);
 

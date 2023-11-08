@@ -35,7 +35,7 @@
   {
     "id": 3,
     "title": "Flappy Bird Online",
-    "description": "I was looking for an idea for my <a href='https://www.youtube.com/@theunknownbox2254'>YouTube channel</a>, and then it hit me: <b>Flappy Bird</b>. In <b>3D</b>. And <b>Online</b>. And that's it.<br><br> I started with some 3D models, reused a server from a previous game, and it was done. The cool thing about this project was that it was an opportunity to add a little bit of polish, as there was nothing too complicated. I could play with the lighting, the effects, etc... <br><br>Despite the apparent simplicity of the project, I loved working on it. And my friends and I play it very <u>often</u>!<br><br> You can try it <a href = 'http://176.144.111.53:888/FlappyBird/'>here</a>",
+    "description": "I was looking for an idea for my <a href='https://www.youtube.com/@theunknownbox2254'>YouTube channel</a>, and then it hit me: <b>Flappy Bird</b>. In <b>3D</b>. And <b>Online</b>. And that's it.<br><br> I started with some 3D models, reused a server from a previous game, and it was done. The cool thing about this project was that it was an opportunity to add a little bit of polish, as there was nothing too complicated. I could play with the lighting, the effects, etc... <br><br>Despite the apparent simplicity of the project, I loved working on it. And my friends and I play it very <u>often</u>!<br><br> You can try it <a href = 'http://82.64.152.244:888/FlappyBird/'>here</a>",
     "languages": "C# / SQL",
     "preview": "images/Flappy Bird.png",
     "technos": "Unity / Blender",
@@ -59,7 +59,7 @@
   {
     "id": 5,
     "title": "Platform Drawer",
-    "description": "Typically the kind of concept that is simple but with enormous possibilities.<br><br> It is possible to draw platforms and each of them has different properties! Not much to say about it, there is a whole video about it that explains it much better. Actually, it was much easier than I thought. I thought the generation of platforms would be more complex and harder to manage, but in the end, it wasn't. <br><br> There is no gameplay but I find this still funny to play, only for the physics.<br><br> <a href='http://176.144.111.53:888/PlatformDrawer/'>Play it here</a>",
+    "description": "Typically the kind of concept that is simple but with enormous possibilities.<br><br> It is possible to draw platforms and each of them has different properties! Not much to say about it, there is a whole video about it that explains it much better. Actually, it was much easier than I thought. I thought the generation of platforms would be more complex and harder to manage, but in the end, it wasn't. <br><br> There is no gameplay but I find this still funny to play, only for the physics.<br><br> <a href='http://82.64.152.244:888/PlatformDrawer/'>Play it here</a>",
     "languages": "C#",
     "preview": "images/PlatDraw.png",
     "technos": "Unity",

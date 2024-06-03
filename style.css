@@ -65,7 +65,6 @@ canvas {
   top: 0;
   left: 0;
   filter: blur(3px);
-  opacity: 1;
 }
 
 .black-div {

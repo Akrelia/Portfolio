@@ -8,7 +8,7 @@
     "technos": "Unity / .NET / Blender",
     "time": "2023",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4", "https://streamable.com/e/y6zxdb"],
+    "videos": ["https://www.youtube.com/embed/9-ScZOiRGV4", "https://www.youtube.com/embed/9-bsy0Sv_N4"],
     "gallery": ["images/screens/Kit.png", "images/screens/countryball1.png","images/screens/countryball2.jpg","images/screens/countryball3.jpg","images/screens/countryball4.jpg","images/screens/countryball5.jpg","images/screens/countryball6.jpg"]
   },
   {
@@ -20,7 +20,7 @@
     "technos": "Unity / WebGL / Web Sockets",
     "time": "2022",
     "roles": "Game Designer / Programmer / UI Designer",
-    "videos": ["https://streamable.com/e/q2vekk"],
+    "videos": ["https://www.youtube.com/embed/IMNEQfj-erY"],
     "gallery": [
       "images/screens/planquiz4.png",
       "images/screens/planquiz5.png",
@@ -65,7 +65,7 @@
     "technos": "Unity",
     "time": "2020",
     "roles": "Game Designer / Programmer",
-    "videos": ["https://www.youtube.com/embed/T8mb7D6vk5Y","https://streamable.com/e/ccwlg0"],
+    "videos": ["https://www.youtube.com/embed/T8mb7D6vk5Y","https://www.youtube.com/embed/5icsVNGsbRA"],
     "gallery": []
   },
   {
@@ -101,7 +101,7 @@
     "technos": ".NET / Disassembler / Hex Editor",
     "time": "2020",
     "roles": "Programmer / Reverse Engineer",
-    "videos": ["https://streamable.com/e/8h6uvb", "https://streamable.com/e/0g22yn"],
+    "videos": ["https://www.youtube.com/embed/L1FbSORjwzM"],
     "gallery": ["images/screens/rose1.jpg"]
   },
   {
@@ -113,7 +113,7 @@
     "technos": "Unity / DiscordUnity (personnal)",
     "time": "2021",
     "roles": "Programmer",
-    "videos": ["https://streamable.com/e/18dbv7"],
+    "videos": ["https://www.youtube.com/embed/oOv8dZ8XaTs"],
     "gallery": ["images/screens/discordarena.png"]
   },
   {
@@ -125,7 +125,7 @@
     "technos": "Unity / Audacity",
     "time": "2022",
     "roles": "Programmer",
-    "videos": ["https://streamable.com/e/nhq2v4"],
+    "videos": ["https://www.youtube.com/embed/S2ygZJJoAcU"],
     "gallery": []
   },
   {
@@ -171,7 +171,7 @@
     "technos": "Unity / ProtoBuf",
     "time": "2019",
     "roles": "Programmer",
-    "videos": ["https://streamable.com/e/ezre1q"],
+    "videos": ["https://www.youtube.com/embed/6vWSJewzQwQ"],
     "gallery": []
   },
   {
@@ -183,7 +183,7 @@
     "technos": "Monogame / Personal Engine & Tools",
     "time": "2016",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://streamable.com/e/8gvfl7"],
+    "videos": ["https://www.youtube.com/embed/izMmF-a45aw","https://www.youtube.com/embed/nl9YaRtOW90"],
     "gallery": ["images/screens/spacejanitor.png"]
   },
   {
@@ -195,7 +195,7 @@
     "technos": "Unity",
     "time": "2019",
     "roles": "Programmer",
-    "videos": ["https://streamable.com/e/5vq9p9"],
+    "videos": ["https://www.youtube.com/embed/qgGJtlRPXwg"],
     "gallery": ["images/screens/thedefenders1.png", "images/screens/thedefenders2.png"]
   },
   {
@@ -207,7 +207,7 @@
     "technos": "Blender / Paint Substance",
     "time": "Since 2021",
     "roles": "3D Artist",
-    "videos": ["https://streamable.com/e/ocrmbd","https://streamable.com/e/4kljat"],
+    "videos": ["https://www.youtube.com/embed/DQliALlP_jg","https://www.youtube.com/embed/8rtVmc6m3Rc"],
     "gallery": ["images/screens/treasure.png", "images/screens/treasure2.png", "images/screens/room.png", "images/screens/tiny planet.png", "images/screens/cimetery.png", "images/screens/chess.png"]
   },
   {
@@ -219,7 +219,7 @@
     "technos": "Unity / .NET / MonoGame",
     "time": "Since 2010",
     "roles": "Game Designer / Programmer / Artist",
-    "videos": ["https://streamable.com/e/wrhjp7","https://streamable.com/e/0rbuup","https://streamable.com/e/2n62v8", "https://streamable.com/e/mvccxj", "https://streamable.com/e/aakovl"],
+    "videos": ["https://www.youtube.com/embed/jpbhV645iog","https://www.youtube.com/embed/8k8pvY4bw-c","https://www.youtube.com/embed/7BCuxZo3Uow", "https://www.youtube.com/embed/bmHW2Ishpsk", "https://www.youtube.com/embed/eVFbzqYke0c"],
     "gallery": [
       "images/screens/towerdefense3D.png",
       "images/screens/tower-def-js.png",
